@@ -1,0 +1,52 @@
+.border1 {
+    width: 350px;
+    border: 5px solid rgb(113, 219, 121);
+    border-style: outset;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:rgb(189, 189, 189);
+}
+
+h2 {
+    font-family: monospace;
+    text-align: center; 
+    font-size: 2em;  
+    text-shadow: 1px 1px 1px #666,
+                 3px 3px 8px black;
+}
+
+#image {
+    display:block;
+    width:300px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.border2 {
+    border: 1px solid gray;
+    margin: 20px;
+    padding: 10px;
+   
+}
+
+.list_items { 
+    list-style: none;
+}
+
+.text_italic { 
+    font-style: italic;
+    text-align: justify;
+}
+
+.list_bold { 
+    font-weight: bold;
+}
+
+.text_align {
+    text-align: justify;
+}
+
+
+
